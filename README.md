@@ -1,5 +1,5 @@
 
-Money-Detection
+#Money-Detection
 
 A demo using YOLOv8 for detecting 100 EGP & 200 EGP as part of a graduation project.
 
@@ -26,11 +26,6 @@ Installation
     ```bash
     cd Money-Detection
     ```
-3. Install the required libraries:
-    ```bash
-    pip install numpy pandas matplotlib sklearn torch torchvision pyyaml
-    ```
-
 Usage
 
 - Training the Model:
