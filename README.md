@@ -1,5 +1,5 @@
 
-#Money-Detection
+# Money-Detection
 
 A demo using YOLOv8 for detecting 100 EGP & 200 EGP as part of a graduation project.
 
